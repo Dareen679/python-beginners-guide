@@ -103,3 +103,91 @@ Hello, Python!
 
 You have now created and run your first Python program!
 
+
+## 3. Python Basics
+
+### Variables and Data Types
+
+Variables are used to store information in a Python program.
+
+```python
+name = "Alex"
+age = 20
+height = 5.8
+is_student = True
+
+print(name)
+print(age)
+```
+
+Common Python data types include:
+
+- String (`str`): Text, such as `"Alex"`
+- Integer (`int`): Whole numbers, such as `20`
+- Float (`float`): Decimal numbers, such as `5.8`
+- Boolean (`bool`): `True` or `False`
+
+### Conditional Statements
+
+Conditional statements allow a program to make decisions.
+
+```python
+age = 18
+
+if age >= 18:
+    print("You are an adult.")
+else:
+    print("You are under 18.")
+```
+
+The program checks whether the condition is true and runs the matching block of code.
+
+### Loops
+
+Loops allow us to repeat instructions without writing the same code multiple times.
+
+Example of a for loop:
+
+```python
+for number in range(1, 4):
+    print(number)
+```
+
+Expected output:
+
+```text
+1
+2
+3
+```
+
+Example of a while loop:
+
+```python
+count = 1
+
+while count <= 3:
+    print(count)
+    count += 1
+```
+
+Both loops print the numbers 1, 2, and 3.
+
+### Practice Exercise
+
+Create a variable named `favorite_language` and print its value.
+
+```python
+favorite_language = "Python"
+print("My favorite language is", favorite_language)
+```
+
+Expected output:
+
+```text
+My favorite language is Python
+```
+
+## Conclusion
+
+Python is a useful programming language for beginners. By learning variables, conditions, and loops, students can begin creating their own programs. Practicing these concepts regularly helps build confidence and programming skills.
