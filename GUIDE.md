@@ -36,3 +36,21 @@ The `print()` function displays information on the screen.
 2. Read error messages to understand mistakes.
 3. Start with simple examples before trying larger projects.
 4. Experiment with code to see how it works.
+
+### Beginner Practice Exercise
+
+Try changing the message in the print() function.
+
+For example:
+
+```python
+print("I am learning Python!")
+```
+
+Expected output:
+
+```text
+I am learning Python!
+```
+
+This exercise helps beginners understand how Python displays information using the print() function.
