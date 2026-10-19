@@ -2,7 +2,7 @@
 # Getting Started with Python
 
 ## Project Overview
-This project is a beginner-friendly guide to Python programming. It explains how to install Python, write simple programs, and understand basic programming concepts.
+This project is a practical, beginner-friendly guide to learning Python programming. It explains how to install Python, write simple programs, and understand basic programming concepts.
 
 ## Who Is This Guide For?
 This guide is designed for students and beginners who have little or no programming experience.
